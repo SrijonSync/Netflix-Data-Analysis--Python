@@ -1,7 +1,7 @@
  
 
 # Netflix-Data-Analysis--Python
-![Image Alt]([image_url](https://github.com/SrijonSync/Netflix-Data-Analysis--Python/blob/bfd6e239cc9b96643046d5e4fe49c9424338faa8/Image%20(2).png)
+![Image](https://github.com/user-attachments/assets/891c649d-0526-4045-a33a-2c1dd53d3b60)
 
 ## Netflix Analysis
 
