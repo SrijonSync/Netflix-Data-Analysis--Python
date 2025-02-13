@@ -78,11 +78,6 @@ Matplotlib & Seaborn (for visualizations)
 
 Jupyter Notebook
 
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/yourusername/netflix-analysis.git
 
 Install dependencies:
 
