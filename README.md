@@ -77,10 +77,3 @@ Certain titles have unusually high popularity scores, requiring further analysis
 #### Matplotlib & Seaborn (for visualizations)
 
 #### Jupyter Notebook
-
-
-Study regional content preferences.
-
-Contributing
-
-Fork the repository and contribute to improve the analysis!
