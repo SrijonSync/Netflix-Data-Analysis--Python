@@ -1,12 +1,12 @@
 # Netflix-Data-Analysis--Python
 
-*Netflix Analysis
+#Netflix Analysis
 
-*Overview
+#Overview
 
 This project analyzes Netflix's content library, exploring genre distribution, audience ratings, and popularity trends. Using a dataset of 9,827 entries, it provides insights into Netflix’s content strategy and viewer preferences.
-**
-Dataset**
+
+#Dataset
 
 Source: The dataset was collected from Kaggle and contains 9,827 movies and TV shows.
 
